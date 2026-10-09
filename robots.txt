@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mim724.github.io/my2--6/sitemap.xml
